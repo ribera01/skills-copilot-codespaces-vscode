@@ -1,6 +1,3 @@
 function skillMember() {
-  return {
-    name: 'John Doe',
-    age: 30
-  };
+    console.log('skillMember');
 }
